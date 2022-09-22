@@ -1,6 +1,6 @@
 # Current-Age-Web
 This is a web that can calculate your current age.
-Used Express as the server that via the internet and responds to incoming requests over HTTP. 
+Used Express as the server which can listen via the internet and responds to incoming requests over HTTP.
 
 Set up npm package
 ```

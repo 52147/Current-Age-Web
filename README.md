@@ -21,7 +21,7 @@ Run the server on port 3000
 node findage.js
 ```
 
-Save the findage.js, server will automatically restart on port 3000
+Save the findage.js and server will automatically restart on port 3000
 ```
 nodemon findage.js
 ```
